@@ -1,0 +1,23 @@
+# **BYU – Beauty, Efficacy, and Simplicity**
+
+**BYU** is a modern beauty brand web platform built to deliver an elegant and minimalist digital experience. Designed with clean layout, soft color palette, and smooth interaction, BYU embodies the essence of beauty, efficacy, and simplicity.
+
+---
+
+## ✨ Features
+- ✅ **Responsive landing page** with animated typography using Framer Motion  
+- 🧊 **Stacked product display** for featured items using a layered card effect  
+- 🌟 **"Best Seller" section** with highlighted product recommendations  
+- 💬 **About Us page** detailing brand mission and values  
+- 🎨 **Minimalist UI/UX design** with aesthetic consistency  
+- 📱 **Mobile-first layout** with adaptive breakpoints  
+- 🔗 **Anchor-based smooth navigation** within pages
+
+---
+
+## 🚀 Tech Stack
+- **[Next.js 14](https://nextjs.org/)** – Full-stack React framework  
+- **[React](https://reactjs.org/)** – UI component library  
+- **[Tailwind CSS](https://tailwindcss.com/)** – Utility-first styling  
+- **[Framer Motion](https://www.framer.com/motion/)** – Declarative animation API  
+- **[Netlify](https://www.netlify.com/)** – Hosting & continuous deployment  

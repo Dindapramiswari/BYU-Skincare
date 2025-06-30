@@ -22,9 +22,9 @@ export default function Navbar() {
             </div>
 
             {/* Menu + Contact */}
-            <div className="w-full flex flex-col lg:flex-row items-center justify-between gap-4 ml-auto">
+            <div className="w-full flex flex-col lg:flex-row items-center justify-end gap-4 ml-auto">
               {/* Menu Wrapper */}
-              <div className="w-full lg:w-auto flex justify-center">
+              <div className="w-full lg:w-auto flex justify-center ">
                 <div className="w-full lg:w-[520px] h-[64px] flex items-center justify-center bg-[#D9D9D9] rounded-[20px] shadow-[0px_20px_40px_rgba(0,0,0,0.2)] text-black text-[16px] lg:text-[18px] font-normal"
                   style={{ fontFamily: 'Inter' }}
                 >
